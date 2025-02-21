@@ -17,4 +17,4 @@
 ## 📦 Instalação
 1. Clone este repositório:  
    ```bash
-   git clone https://github.com/seu-usuario/fitlog-diet.git
+   git clone https://github.com/pedrohmsimoes/Projeto-FitLog-Diet.git
