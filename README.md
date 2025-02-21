@@ -18,3 +18,7 @@
 1. Clone este repositório:  
    ```bash
    git clone https://github.com/pedrohmsimoes/Projeto-FitLog-Diet.git
+
+## Planejamento do Projeto - FitLog Diet 
+
+https://www.notion.so/Planejamento-do-Projeto-FitLog-Diet-1a131d103e6a80a6934fe7ea8e202c93?showMoveTo=true
